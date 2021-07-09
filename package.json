@@ -1,0 +1,14 @@
+{
+  "name": "glorybreaker",
+  "version": "0.0.1",
+  "description": "A test game written in node",
+  "main": "./start",
+  "author": "Sekeol Kim",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-stylus": "^0.1.1",
+    "nib": "^1.1.2",
+    "pug": "^3.0.2"
+  }
+}
